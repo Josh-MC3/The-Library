@@ -1,0 +1,837 @@
+{
+  "metadata": {
+    "project": "Leadership Through Transition",
+    "document": "Master Catalog",
+    "version": "1.0",
+    "date": "June 2025",
+    "total_entries": 15,
+    "schema_version": "1.0"
+  },
+  "entries": [
+    {
+      "id": "LTT-001",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor Frankl",
+      "year": 1946,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon",
+        "Philosophy & Meaning Canon"
+      ],
+      "node_tier": "Critical Node",
+      "node_theme_count": 5,
+      "categories": [
+        "Philosophy",
+        "Psychology",
+        "Personal Development"
+      ],
+      "leadership_themes": [
+        "Resilience",
+        "Self-Awareness",
+        "Character",
+        "Discipline",
+        "Humility",
+        "Courage"
+      ],
+      "transition_themes": [
+        "Identity",
+        "Purpose",
+        "Meaning",
+        "Uncertainty",
+        "Personal Growth"
+      ],
+      "reading_pathways": [
+        "Finding Purpose After Service",
+        "Identity Beyond Rank",
+        "Resilience Under Pressure",
+        "Preparing for Retirement",
+        "Personal Growth & Reflection"
+      ],
+      "wisdom_themes": [
+        "Meaning",
+        "Purpose",
+        "Identity",
+        "Resilience",
+        "Character"
+      ],
+      "related_books": [
+        "Meditations · Marcus Aurelius",
+        "Ego Is the Enemy · Ryan Holiday",
+        "Leaders Eat Last · Simon Sinek",
+        "Start With Why · Simon Sinek",
+        "Good to Great · Jim Collins"
+      ],
+      "entry_version": "2.0",
+      "entry_date": "June 2025",
+      "gold_standard": true,
+      "notes": "Identity trilogy anchor. Most cross-connected book in library. Provides existential foundation for Habit 1 (Covey), WHY framework (Sinek), Level 5 humility (Collins)."
+    },
+    {
+      "id": "LTT-002",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "year": "~170–180 AD",
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon",
+        "Philosophy & Meaning Canon"
+      ],
+      "node_tier": "Critical Node",
+      "node_theme_count": 6,
+      "categories": [
+        "Philosophy",
+        "Personal Development"
+      ],
+      "leadership_themes": [
+        "Discipline",
+        "Humility",
+        "Self-Awareness",
+        "Character",
+        "Resilience",
+        "Service"
+      ],
+      "transition_themes": [
+        "Identity",
+        "Purpose",
+        "Meaning",
+        "Uncertainty",
+        "Personal Growth"
+      ],
+      "reading_pathways": [
+        "Identity Beyond Rank",
+        "Finding Purpose After Service",
+        "Resilience Under Pressure",
+        "Personal Growth & Reflection",
+        "Leadership Foundations"
+      ],
+      "wisdom_themes": [
+        "Character",
+        "Resilience",
+        "Meaning",
+        "Purpose",
+        "Identity",
+        "Service"
+      ],
+      "related_books": [
+        "Ego Is the Enemy · Ryan Holiday",
+        "The Obstacle Is the Way · Ryan Holiday",
+        "Man's Search for Meaning · Viktor Frankl",
+        "The Servant as Leader · Robert Greenleaf",
+        "Extreme Ownership · Willink & Babin"
+      ],
+      "entry_version": "2.0",
+      "entry_date": "June 2025",
+      "gold_standard": true,
+      "notes": "Highest-density node in the library (6 wisdom themes). Source text for Holiday's Stoic trilogy. Highest-density node in the library."
+    },
+    {
+      "id": "LTT-003",
+      "title": "Ego Is the Enemy",
+      "author": "Ryan Holiday",
+      "year": 2016,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon"
+      ],
+      "node_tier": "High-Density Node",
+      "node_theme_count": 4,
+      "categories": [
+        "Personal Development",
+        "Philosophy"
+      ],
+      "leadership_themes": [
+        "Humility",
+        "Self-Awareness",
+        "Character",
+        "Discipline",
+        "Growth Mindset"
+      ],
+      "transition_themes": [
+        "Identity",
+        "Reinvention",
+        "Personal Growth",
+        "Uncertainty"
+      ],
+      "reading_pathways": [
+        "Identity Beyond Rank",
+        "Personal Growth & Reflection",
+        "Resilience Under Pressure",
+        "Leadership Foundations"
+      ],
+      "wisdom_themes": [
+        "Identity",
+        "Character",
+        "Adaptability",
+        "Resilience"
+      ],
+      "related_books": [
+        "Meditations · Marcus Aurelius",
+        "The Obstacle Is the Way · Ryan Holiday",
+        "Man's Search for Meaning · Viktor Frankl",
+        "Leadership and Self-Deception · The Arbinger Institute",
+        "Leaders Eat Last · Simon Sinek"
+      ],
+      "entry_version": "2.0",
+      "entry_date": "June 2025",
+      "gold_standard": true,
+      "notes": "Identity trilogy third entry. Modern diagnostic of ego mechanism. Direct modern application of Stoic philosophy with Aurelius as primary source."
+    },
+    {
+      "id": "LTT-004",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "year": 1989,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon"
+      ],
+      "node_tier": "Critical Node",
+      "node_theme_count": 5,
+      "categories": [
+        "Personal Development",
+        "Leadership",
+        "Philosophy"
+      ],
+      "leadership_themes": [
+        "Self-Awareness",
+        "Discipline",
+        "Accountability",
+        "Influence",
+        "Character",
+        "Communication",
+        "Growth Mindset"
+      ],
+      "transition_themes": [
+        "Identity",
+        "Purpose",
+        "Personal Growth",
+        "Reinvention",
+        "Fulfillment"
+      ],
+      "reading_pathways": [
+        "Identity Beyond Rank",
+        "Finding Purpose After Service",
+        "Preparing for Retirement",
+        "Leadership Foundations",
+        "Personal Growth & Reflection"
+      ],
+      "wisdom_themes": [
+        "Identity",
+        "Purpose",
+        "Character",
+        "Accountability",
+        "Adaptability"
+      ],
+      "related_books": [
+        "Man's Search for Meaning · Viktor Frankl",
+        "Essentialism · Greg McKeown",
+        "Start With Why · Simon Sinek",
+        "Meditations · Marcus Aurelius",
+        "Atomic Habits · James Clear"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Bridge between philosophical canon and practical effectiveness. Private victory sequence (Habits 1-3) most relevant to transition. Proactivity framework = operationalized Frankl."
+    },
+    {
+      "id": "LTT-005",
+      "title": "The Servant as Leader",
+      "author": "Robert K. Greenleaf",
+      "year": 1970,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon"
+      ],
+      "node_tier": "Critical Node",
+      "node_theme_count": 5,
+      "categories": [
+        "Leadership",
+        "Philosophy",
+        "Personal Development"
+      ],
+      "leadership_themes": [
+        "Service",
+        "Humility",
+        "Mentorship",
+        "Character",
+        "Influence",
+        "Growth Mindset"
+      ],
+      "transition_themes": [
+        "Identity",
+        "Purpose",
+        "Legacy",
+        "Service Beyond Uniform",
+        "Fulfillment"
+      ],
+      "reading_pathways": [
+        "Identity Beyond Rank",
+        "Finding Purpose After Service",
+        "Leadership Foundations",
+        "Preparing for Retirement",
+        "Developing Future Leaders"
+      ],
+      "wisdom_themes": [
+        "Service",
+        "Identity",
+        "Legacy",
+        "Mentorship",
+        "Purpose"
+      ],
+      "related_books": [
+        "Leaders Eat Last · Simon Sinek",
+        "Man's Search for Meaning · Viktor Frankl",
+        "Meditations · Marcus Aurelius",
+        "The Analects of Confucius",
+        "Start With Why · Simon Sinek"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Clearest articulation of service as post-institutional identity. Greenleaf test (do those served grow?) is most demanding measure in library. ~50 pages; philosophical not prescriptive."
+    },
+    {
+      "id": "LTT-006",
+      "title": "Leadership and Self-Deception",
+      "author": "The Arbinger Institute",
+      "year": 2000,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon"
+      ],
+      "node_tier": "Standard Node",
+      "node_theme_count": 4,
+      "categories": [
+        "Leadership",
+        "Psychology",
+        "Personal Development"
+      ],
+      "leadership_themes": [
+        "Self-Awareness",
+        "Accountability",
+        "Trust",
+        "Character",
+        "Emotional Intelligence",
+        "Humility"
+      ],
+      "transition_themes": [
+        "Identity",
+        "Personal Growth",
+        "Reinvention",
+        "Uncertainty"
+      ],
+      "reading_pathways": [
+        "Identity Beyond Rank",
+        "Leadership Foundations",
+        "Personal Growth & Reflection",
+        "Finding Purpose After Service"
+      ],
+      "wisdom_themes": [
+        "Identity",
+        "Accountability",
+        "Character",
+        "Trust"
+      ],
+      "related_books": [
+        "Ego Is the Enemy · Ryan Holiday",
+        "Meditations · Marcus Aurelius",
+        "Crucial Conversations · Patterson et al.",
+        "The 7 Habits of Highly Effective People · Stephen Covey",
+        "Man's Search for Meaning · Viktor Frankl"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Relational diagnostic partner to Holiday's ego framework. Delivered as narrative fable. Prerequisite for genuine private victory (Covey). Transition uniquely exposes the box."
+    },
+    {
+      "id": "LTT-007",
+      "title": "Start With Why",
+      "author": "Simon Sinek",
+      "year": 2009,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon"
+      ],
+      "node_tier": "High-Density Node",
+      "node_theme_count": 4,
+      "categories": [
+        "Leadership",
+        "Personal Development",
+        "Business"
+      ],
+      "leadership_themes": [
+        "Leadership",
+        "Influence",
+        "Communication",
+        "Character",
+        "Trust"
+      ],
+      "transition_themes": [
+        "Purpose",
+        "Identity",
+        "Meaning",
+        "Reinvention",
+        "Service Beyond Uniform"
+      ],
+      "reading_pathways": [
+        "Finding Purpose After Service",
+        "Identity Beyond Rank",
+        "Building a Second Career",
+        "Leadership Foundations"
+      ],
+      "wisdom_themes": [
+        "Purpose",
+        "Identity",
+        "Leadership",
+        "Meaning"
+      ],
+      "related_books": [
+        "Leaders Eat Last · Simon Sinek",
+        "Man's Search for Meaning · Viktor Frankl",
+        "The 7 Habits of Highly Effective People · Stephen Covey",
+        "The Infinite Game · Simon Sinek",
+        "The Servant as Leader · Robert Greenleaf"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Sinek Trilogy Book 1. Opens library's purpose arc. Military gave institutional WHY for decades; transition requires personal WHY discovery. Golden Circle is communicative expression of purpose."
+    },
+    {
+      "id": "LTT-008",
+      "title": "The Obstacle Is the Way",
+      "author": "Ryan Holiday",
+      "year": 2014,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon"
+      ],
+      "node_tier": "High-Density Node",
+      "node_theme_count": 4,
+      "categories": [
+        "Personal Development",
+        "Philosophy",
+        "Leadership"
+      ],
+      "leadership_themes": [
+        "Resilience",
+        "Adaptability",
+        "Discipline",
+        "Character",
+        "Courage",
+        "Decision Making"
+      ],
+      "transition_themes": [
+        "Uncertainty",
+        "Personal Growth",
+        "Reinvention",
+        "Meaning",
+        "Identity"
+      ],
+      "reading_pathways": [
+        "Resilience Under Pressure",
+        "Leading Through Uncertainty",
+        "Personal Growth & Reflection",
+        "Identity Beyond Rank"
+      ],
+      "wisdom_themes": [
+        "Resilience",
+        "Adaptability",
+        "Character",
+        "Meaning"
+      ],
+      "related_books": [
+        "Meditations · Marcus Aurelius",
+        "Ego Is the Enemy · Ryan Holiday",
+        "Man's Search for Meaning · Viktor Frankl",
+        "Extreme Ownership · Willink & Babin",
+        "Mindset · Carol Dweck"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Stoic Trilogy Book 3 (Holiday). Closes trilogy: Aurelius (foundation), Ego Is Enemy (internal obstacle), Obstacle Is Way (external framework). Perception, Action, Will architecture."
+    },
+    {
+      "id": "LTT-009",
+      "title": "Extreme Ownership",
+      "author": "Jocko Willink & Leif Babin",
+      "year": 2015,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon",
+        "Military Leadership Canon"
+      ],
+      "node_tier": "High-Density Node",
+      "node_theme_count": 4,
+      "categories": [
+        "Military Leadership",
+        "Leadership",
+        "Business"
+      ],
+      "leadership_themes": [
+        "Accountability",
+        "Ownership",
+        "Leadership",
+        "Decision Making",
+        "Team Building",
+        "Discipline",
+        "Execution"
+      ],
+      "transition_themes": [
+        "Veteran Experience",
+        "Career Change",
+        "Civilian Integration",
+        "Identity"
+      ],
+      "reading_pathways": [
+        "Leadership Foundations",
+        "Command Leadership",
+        "Building a Second Career",
+        "Developing Future Leaders"
+      ],
+      "wisdom_themes": [
+        "Accountability",
+        "Leadership",
+        "Service",
+        "Trust"
+      ],
+      "related_books": [
+        "The Obstacle Is the Way · Ryan Holiday",
+        "Good to Great · Jim Collins",
+        "Leadership and Self-Deception · The Arbinger Institute",
+        "Leaders Eat Last · Simon Sinek",
+        "Team of Teams · Stanley McChrystal"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Most militarily grounded entry in Foundational Canon. Core challenge at transition: accountability philosophy built around command authority must be expressed through influence in civilian context."
+    },
+    {
+      "id": "LTT-010",
+      "title": "Essentialism",
+      "author": "Greg McKeown",
+      "year": 2014,
+      "library_tier": "Supporting",
+      "canon_status": [
+        "Core Transition Canon"
+      ],
+      "node_tier": "Standard Node",
+      "node_theme_count": 4,
+      "categories": [
+        "Personal Development",
+        "Business"
+      ],
+      "leadership_themes": [
+        "Discipline",
+        "Strategic Thinking",
+        "Decision Making",
+        "Self-Awareness"
+      ],
+      "transition_themes": [
+        "Purpose",
+        "Fulfillment",
+        "Reinvention",
+        "Uncertainty",
+        "Identity"
+      ],
+      "reading_pathways": [
+        "Preparing for Retirement",
+        "Finding Purpose After Service",
+        "Building a Second Career",
+        "Personal Growth & Reflection"
+      ],
+      "wisdom_themes": [
+        "Purpose",
+        "Adaptability",
+        "Identity",
+        "Meaning"
+      ],
+      "related_books": [
+        "The 7 Habits of Highly Effective People · Stephen Covey",
+        "Start With Why · Simon Sinek",
+        "Man's Search for Meaning · Viktor Frankl",
+        "Atomic Habits · James Clear",
+        "The Effective Executive · Peter Drucker"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Decision architecture for the purpose questions foundational canon establishes. 90% rule most applicable tool for post-transition commitment evaluation. Extends Covey's Quadrant 2 into practice."
+    },
+    {
+      "id": "LTT-011",
+      "title": "Leaders Eat Last",
+      "author": "Simon Sinek",
+      "year": 2014,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon",
+        "Military Leadership Canon"
+      ],
+      "node_tier": "Critical Node",
+      "node_theme_count": 5,
+      "categories": [
+        "Leadership",
+        "Military Leadership"
+      ],
+      "leadership_themes": [
+        "Service",
+        "Trust",
+        "Culture",
+        "Leadership",
+        "Team Building",
+        "Accountability"
+      ],
+      "transition_themes": [
+        "Identity",
+        "Purpose",
+        "Belonging",
+        "Veteran Experience",
+        "Service Beyond Uniform"
+      ],
+      "reading_pathways": [
+        "Identity Beyond Rank",
+        "Finding Purpose After Service",
+        "Leadership Foundations",
+        "Command Leadership"
+      ],
+      "wisdom_themes": [
+        "Service",
+        "Trust",
+        "Belonging",
+        "Leadership",
+        "Purpose"
+      ],
+      "related_books": [
+        "Start With Why · Simon Sinek",
+        "The Servant as Leader · Robert Greenleaf",
+        "Five Dysfunctions of a Team · Patrick Lencioni",
+        "Man's Search for Meaning · Viktor Frankl",
+        "Extreme Ownership · Willink & Babin"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Sinek Trilogy Book 2. Critical Node for belonging theme — only book addressing biological architecture of military belonging and its loss. Circle of Safety. Neurochemical explanation of transition grief."
+    },
+    {
+      "id": "LTT-012",
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "year": 2001,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon",
+        "Core Leadership Canon"
+      ],
+      "node_tier": "High-Density Node",
+      "node_theme_count": 4,
+      "categories": [
+        "Business",
+        "Leadership"
+      ],
+      "leadership_themes": [
+        "Leadership",
+        "Character",
+        "Humility",
+        "Discipline",
+        "Strategic Thinking",
+        "Execution"
+      ],
+      "transition_themes": [
+        "Purpose",
+        "Legacy",
+        "Reinvention",
+        "Building a Second Career"
+      ],
+      "reading_pathways": [
+        "Leadership Foundations",
+        "Command Leadership",
+        "Building a Second Career",
+        "Finding Purpose After Service"
+      ],
+      "wisdom_themes": [
+        "Leadership",
+        "Character",
+        "Accountability",
+        "Legacy"
+      ],
+      "related_books": [
+        "Extreme Ownership · Willink & Babin",
+        "Meditations · Marcus Aurelius",
+        "Start With Why · Simon Sinek",
+        "Man's Search for Meaning · Viktor Frankl",
+        "The Effective Executive · Peter Drucker"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Library's empirical anchor. Level 5 Leadership = civilian-credible vocabulary for the character profile military development produces. Hedgehog Concept = most rigorous second-career alignment framework. Stockdale Paradox = empirical Stoicism."
+    },
+    {
+      "id": "LTT-013",
+      "title": "The Five Dysfunctions of a Team",
+      "author": "Patrick Lencioni",
+      "year": 2002,
+      "library_tier": "Core",
+      "canon_status": [
+        "Foundational Canon",
+        "Core Leadership Canon"
+      ],
+      "node_tier": "High-Density Node",
+      "node_theme_count": 4,
+      "categories": [
+        "Leadership",
+        "Business"
+      ],
+      "leadership_themes": [
+        "Trust",
+        "Team Building",
+        "Accountability",
+        "Conflict Resolution",
+        "Culture",
+        "Communication"
+      ],
+      "transition_themes": [
+        "Relationships",
+        "Belonging",
+        "Civilian Integration",
+        "Identity"
+      ],
+      "reading_pathways": [
+        "Leadership Foundations",
+        "Developing Future Leaders",
+        "Command Leadership",
+        "Building a Second Career"
+      ],
+      "wisdom_themes": [
+        "Trust",
+        "Accountability",
+        "Belonging",
+        "Leadership"
+      ],
+      "related_books": [
+        "Leaders Eat Last · Simon Sinek",
+        "Extreme Ownership · Willink & Babin",
+        "Crucial Conversations · Grenny et al.",
+        "Leadership and Self-Deception · The Arbinger Institute",
+        "The Ideal Team Player · Patrick Lencioni"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Team trust diagnostic. Military teams bypass trust-building work structurally; civilian teams almost never have those conditions. Vulnerability-based trust ≠ performance-based trust — military leaders commonly conflate these."
+    },
+    {
+      "id": "LTT-014",
+      "title": "The Infinite Game",
+      "author": "Simon Sinek",
+      "year": 2019,
+      "library_tier": "Supporting",
+      "canon_status": [
+        "Core Transition Canon",
+        "Sinek Trilogy Completion"
+      ],
+      "node_tier": "High-Density Node",
+      "node_theme_count": 4,
+      "categories": [
+        "Leadership",
+        "Business",
+        "Philosophy"
+      ],
+      "leadership_themes": [
+        "Strategic Thinking",
+        "Leadership",
+        "Culture",
+        "Character",
+        "Integrity",
+        "Long-Term Thinking"
+      ],
+      "transition_themes": [
+        "Legacy",
+        "Purpose",
+        "Meaning",
+        "Reinvention",
+        "Identity"
+      ],
+      "reading_pathways": [
+        "Finding Purpose After Service",
+        "Preparing for Retirement",
+        "Identity Beyond Rank",
+        "Command Leadership"
+      ],
+      "wisdom_themes": [
+        "Legacy",
+        "Purpose",
+        "Leadership",
+        "Meaning"
+      ],
+      "related_books": [
+        "Start With Why · Simon Sinek",
+        "Leaders Eat Last · Simon Sinek",
+        "Man's Search for Meaning · Viktor Frankl",
+        "Good to Great · Jim Collins",
+        "Essentialism · Greg McKeown"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Sinek Trilogy Book 3 (completion). Closes purpose arc: WHY → belonging → legacy. Military career was infinite game episode. Just Cause concept requires prior WHY work (Frankl, Covey) to avoid institutional restatement."
+    },
+    {
+      "id": "LTT-015",
+      "title": "The First 90 Days",
+      "author": "Michael Watkins",
+      "year": 2003,
+      "library_tier": "Supporting",
+      "canon_status": [
+        "Core Transition Canon"
+      ],
+      "node_tier": "Standard Node",
+      "node_theme_count": 3,
+      "categories": [
+        "Business",
+        "Leadership",
+        "Transition & Reinvention"
+      ],
+      "leadership_themes": [
+        "Leadership",
+        "Adaptability",
+        "Change Management",
+        "Strategic Thinking",
+        "Communication"
+      ],
+      "transition_themes": [
+        "Career Change",
+        "Civilian Integration",
+        "Reinvention",
+        "Uncertainty"
+      ],
+      "reading_pathways": [
+        "Building a Second Career",
+        "Preparing for Retirement",
+        "Leading Through Uncertainty"
+      ],
+      "wisdom_themes": [
+        "Adaptability",
+        "Leadership",
+        "Reinvention"
+      ],
+      "related_books": [
+        "Extreme Ownership · Willink & Babin",
+        "Good to Great · Jim Collins",
+        "Leadership and Self-Deception · The Arbinger Institute",
+        "The Obstacle Is the Way · Ryan Holiday",
+        "The Effective Executive · Peter Drucker"
+      ],
+      "entry_version": "1.0",
+      "entry_date": "June 2025",
+      "gold_standard": false,
+      "notes": "Operational bridge — connects philosophical/identity work to practical civilian integration. STARS framework critical for military leaders who default to turnaround mode. No civilian equivalent of change-of-command process."
+    }
+  ]
+}
